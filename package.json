@@ -1,0 +1,17 @@
+{
+  "name": "@shaharmor/prettier-config",
+  "version": "0.0.0",
+  "main": ".prettierrc.json",
+  "files": [
+    ".prettierrc.json"
+  ],
+  "author": "Shahar Mor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shaharmor/prettier-config.git"
+  },
+  "peerDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
