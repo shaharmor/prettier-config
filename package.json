@@ -1,9 +1,14 @@
 {
   "name": "@shaharmor/prettier-config",
+  "description": "My opinionated prettier config",
   "version": "1.0.1",
   "main": ".prettierrc.json",
   "files": [
     ".prettierrc.json"
+  ],
+  "keywords": [
+    "prettier",
+    "prettierconfig"
   ],
   "author": "Shahar Mor",
   "license": "MIT",
